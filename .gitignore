@@ -1,0 +1,46 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.pyc
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.log
+*.log?
+*.bak
+*.bak?
+*.tmp
+*.tmp?
+*.obj
+*.pdb
+*.cache/
+*.pyc
+*.pyo
+*.pyd
+*.node_modules/
+*.jupyter/
+*.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Configuration files
+*.yml
+*.yaml
+*.ini
