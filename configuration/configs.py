@@ -1,7 +1,6 @@
 import os
 from configparser import ConfigParser
 
-
 basedir = os.path.abspath(os.path.dirname(__file__))
 config_file = os.path.join(basedir, 'config.cfg')
 
